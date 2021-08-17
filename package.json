@@ -1,5 +1,5 @@
 {
-  "name": "SelfBotz", 
+  "name": "Subs Me youtube GNG BOTZ", 
   "version": "1.0.0",
   "description": "Gak Ada",
   "main": "main.js",
@@ -10,7 +10,7 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node main.js"
   },
-  "author": "nino",
+  "author": "gunz",
   "dependencies": {
     "@adiwajshing/baileys": "^3.5.2",
     "axios": "^0.21.1",
@@ -38,10 +38,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Nino-chan02/NinoWangy"
+    "url": "git+https://github.com/itsmegng/AgungId"
   },
   "bugs": {
-    "url": "https://github.com/Nino-chan02/NinoWangy/issues"
+    "url": "https://github.com/itsmegng/AgungID/issues"
   },
-  "homepage": "https://github.com/Nino-chan02/NinoWangy#readme"
+  "homepage": "https://github.com/itsmegng/AgungID#readme"
 }
