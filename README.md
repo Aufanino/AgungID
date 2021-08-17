@@ -31,8 +31,11 @@
 
 # Thanks To
 * [`Baileys`](https://github.com/adiwajshing/Baileys)
-* [`Nino`] (https://github.com/Nino-chan02)
-* [`Ramlan`](https://github.com/Ramlan404/babybot)
-* [`Aqul`](https://github.com/Xinz-Team/XinzBot)
-* [`gng`](https://github.com/itsmegng)
+* [`Nino`] 
+* [`Ramlan`]
+* [`Aqul`]
+* [`gng`]
+* [`ikyads`]  
+* [`HafidzAbbdilah`]
+* [`Dan Para Creator Bot Lain Nya`]                                                             
 
