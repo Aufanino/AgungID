@@ -31,8 +31,8 @@
 
 # Thanks To
 * [`Baileys`](https://github.com/adiwajshing/Baileys)
-* [`Arip`](https://github.com/Nino-chan26)
-* [`Hexa`](https://github.com/RamlanID404)
-* [`Galang`](https://github.com/Xinz-Team)
-* [`Franky`](https://github.com/itsmegng)
+* [`Nino`] (https://github.com/Nino-chan02)
+* [`Ramlan`](https://github.com/Ramlan404/babybot)
+* [`Aqul`](https://github.com/Xinz-Team/XinzBot)
+* [`gng`](https://github.com/itsmegng)
 
