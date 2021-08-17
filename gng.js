@@ -71,7 +71,7 @@ owner = setting.owner
 
 // Database
 let welkom = JSON.parse(fs.readFileSync('./database/welcome.json'))
-const anti = JSON.parse(fs.readFileSync('./database/antilink.json'))
+
 let _scommand = JSON.parse(fs.readFileSync('./database/scommand.json'))
 
 
