@@ -1,7 +1,7 @@
 <p align="center">
     <img src="https://telegra.ph/file/11afe8bcf630870e9ccb2.jpg" width="54%" height="50%" alt="Owner Agung-BOTZ"/>
     <br>
-    <a href="https://github.com/Nino-chan02"><img title="Owner" src="https://img.shields.io/badge/Creator-Nino-black?style=for-the-badge&logo=windows"></a>
+    <a href="https://github.com/itsmegng"><img title="Owner" src="https://img.shields.io/badge/Creator-Nino-black?style=for-the-badge&logo=windows"></a>
 </p>
 <p align="center">
   <img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript" />
@@ -19,14 +19,14 @@
 | **IMAGEMAGICK** | [HERE](https://github.com/DuckyTeam/heroku-buildpack-imagemagick) |
 
 ## Features
-| **cek disini** | [HERE](https://github.com/Nino-chan02/SelfBotz/blob/main/nino.js#L360) |
+| **cek disini** | [HERE](https://github.com/itsmegng/AgungID/blob/main/gng.js#L360) |
 | :---------------------------------------------: | :-----------: |
 
 ## Connect With Me
 <p align="center">
- <a href="https://instagram.com/nino.chan26"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=black"/></a><a href="https://wa.me/+6288286421519"><img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=black"/></a>
- <a href="https://youtube.com/channel/UCofvtddjxVV_2gOAqGen_sg"><img src="https://img.shields.io/badge/YouTube-OhMyNino?style=for-the-badge&logo=youtube&logoColor=ff0000&link=https://youtube.com/channel/UCofvtddjxVV_2gOAqGen_sg" />
- <a name=Nino-chan02&label=VIEWS&style=flat-square&color=red"/>
+ <a href="https://instagram.com/itsmegng"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=black"/></a><a href="https://wa.me/+6288286421519"><img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=black"/></a>
+ <a href="https://youtube.com/channel/UCofvtddjxVV_2gOAqGen_sg"><img src="https://img.shields.io/badge/YouTube-GNG BOTZ?style=for-the-badge&logo=youtube&logoColor=ff0000&link=https://youtube.com/channel/UCofvtddjxVV_2gOAqGen_sg" />
+ <a name=Agung-Id&label=VIEWS&style=flat-square&color=red"/>
 </p>
 
 # Thanks To
